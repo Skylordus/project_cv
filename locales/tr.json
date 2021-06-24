@@ -23,6 +23,7 @@
   "title-nu": "Nazarbayev Universitesi",
   "title-inno": "Innopolis Universitesi",
   "title-sbt": "Sberbank Teknoloji",
+  "title-fabula": "Fabula Fortuna",
 
   "education-ktl": "Pascal, C++, Java programlarin öğrenmeye başladım",
   "education-upc": "Universite Hazırlık Sertifikası",
@@ -32,6 +33,7 @@
   "education-inno": "Java EE 8 / Web Geliştirici kurslari",
   "experience-backend-web-dev": "Backend Web Geliştirici",
   "experience-fullstack-web-dev": "Fullstack Web Geliştirici",
+  "experience-unity-dev": "Unity C# Geliştirici",
 
   "hobby-coding" : "kodlama",
   "hobby-tinkering" : "tamir etmek",
@@ -49,6 +51,8 @@
   "skills-java" : "Java EE",
   "skills-html" : "HTML",
   "skills-css" : "CSS",
+  "skills-unity" : "Unity",
+  "skills-charp" : "C#",
   "skills-postcss" : "PostCSS",
   "skills-js" : "JavaScript ES5/ES6",
   "skills-axios" : "Axios",
@@ -107,6 +111,8 @@
   "publication-ganglion-link": "https://ieeexplore.ieee.org/document/8125988/",
   "publication-nxt-drawing-robot": "Çizim NXT Robot.",
   "publication-nxt-drawing-robot-link": "https://www.youtube.com/watch?v=rddUnpd_IKk",
+  "publication-cyber-attractor": "Mobil oyunu: Cyber Attractor.",
+  "publication-cyber-attractor-link": "https://play.google.com/store/apps/details?id=com.FabulaFortuna.CyberAttractor",
 
   "link": "Bağlantı",
   "change-language": "Dil Seçiniz",

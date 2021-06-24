@@ -25,6 +25,7 @@
   "title-nu": "Назарбаев Университеті",
   "title-inno": "Иннополис Университеті",
   "title-sbt": "Сбербанк Технологий",
+  "title-fabula": "Fabula Fortuna",
 
   "education-ktl": "Pascal, С++, Java тілдерінде бағдарламалар жазуды үйрендім",
   "education-upc": "Бакалавр деңгейіне дайындық курс",
@@ -34,6 +35,7 @@
   "education-inno": "Java EE 8 курсі / Веб әзірлеу",
   "experience-backend-web-dev": "Бэкенд веб-әзірлеуші",
   "experience-fullstack-web-dev": "Fullstack веб-әзірлеуші",
+  "experience-unity-dev": "Unity C# ойын әзірлеуші",
 
   "hobby-coding" : "әзірлеу",
   "hobby-tinkering" : "мастерлеу",
@@ -50,6 +52,8 @@
   "skills-programming-other" : "Басқа",
   "skills-java" : "Java EE",
   "skills-html" : "HTML",
+  "skills-unity" : "Unity",
+  "skills-charp" : "C#",
   "skills-css" : "CSS",
   "skills-postcss" : "PostCSS",
   "skills-js" : "JavaScript ES5/ES6",
@@ -109,6 +113,8 @@
   "publication-ganglion-link": "https://ieeexplore.ieee.org/document/8125988/",
   "publication-nxt-drawing-robot": "NXT суретші робот.",
   "publication-nxt-drawing-robot-link": "https://www.youtube.com/watch?v=rddUnpd_IKk",
+  "publication-cyber-attractor": "Смартфон үшін ойын: Cyber Attractor.",
+  "publication-cyber-attractor-link": "https://play.google.com/store/apps/details?id=com.FabulaFortuna.CyberAttractor",
 
   "link": "Сілтеме",
   "change-language": "Тілді таңдау",

@@ -1,8 +1,8 @@
 {
   "my-name": "Yerlan",
   "my-surname": "Berdaliyev",
-  "job-position": "Fullstack Web Developer",
-  "about-me": "\tI am 25 and I've been programming since 14. Over these years, I've developed a wide range of coding skills.\n\tIn my future job, I would like to develop frontend web applications though I position myself as a fullstack web developer. However, I can still do backend tasks whenever It's required to apply my huge experience in that aspect.",
+  "job-position": "Fullstack Developer | Unity Developer",
+  "about-me": "\tI've been programming since my school days. Over these years, I've developed a wide range of coding skills.\n\tIn my future job, I would like to develop video games or frontend applications and I position myself as a fullstack developer. Moreover, I can complete server-side assignments whenever It's required to apply my huge experience in that aspect.",
 
   "hello": "Hello",
   "hobbies-title": "What I like to do",
@@ -23,6 +23,7 @@
   "title-nu": "Nazarbayev University",
   "title-inno": "Innopolis University",
   "title-sbt": "Sberbank Technologies",
+  "title-fabula": "Fabula Fortuna",
 
   "education-ktl": "Started learning programming in Pascal, C++, Java",
   "education-upc": "Undergraduate Preparatory Certificate",
@@ -32,6 +33,7 @@
   "education-inno": "Bootcamp course Java EE 8 / Web Development",
   "experience-backend-web-dev": "Backend Web Developer",
   "experience-fullstack-web-dev": "Fullstack Web Developer",
+  "experience-unity-dev": "Unity C# Game Developer",
 
   "hobby-coding" : "coding",
   "hobby-tinkering" : "tinkering",
@@ -48,6 +50,8 @@
   "skills-programming-other" : "Other",
   "skills-java" : "Java EE",
   "skills-html" : "HTML",
+  "skills-unity" : "Unity",
+  "skills-charp" : "C#",
   "skills-css" : "CSS",
   "skills-postcss" : "PostCSS",
   "skills-js" : "JavaScript ES5/ES6",
@@ -107,6 +111,8 @@
   "publication-ganglion-link": "https://ieeexplore.ieee.org/document/8125988/",
   "publication-nxt-drawing-robot": "Drawing NXT Robot.",
   "publication-nxt-drawing-robot-link": "https://www.youtube.com/watch?v=rddUnpd_IKk",
+  "publication-cyber-attractor": "Mobile game: Cyber Attractor.",
+  "publication-cyber-attractor-link": "https://play.google.com/store/apps/details?id=com.FabulaFortuna.CyberAttractor",
 
   "link": "Link",
   "change-language": "Select language",
